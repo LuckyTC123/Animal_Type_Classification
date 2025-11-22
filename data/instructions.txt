@@ -1,0 +1,2 @@
+image should be properly annoted any missing values cause error while training 
+paste your image's  :  annoted in COCO-Formate
