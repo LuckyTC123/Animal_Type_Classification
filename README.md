@@ -5,7 +5,7 @@ developing the ML model which can extract the keypoints from the cow image and d
 ## 📌 Project Overview
 This project is my final year work focused on applying **Deep Learning** to livestock analysis.  
 The goal is to evaluate cow morphology (length, width, and other body parameters) from images and determine **breeding suitability based on weather conditions**.
-
+![dashboard](dashboard.jpg)
 Key steps:
 - Annotated **100 cow images** in **COCO format**.
 - Fine-tuned **Detectron2** for **keypoint detection**.
